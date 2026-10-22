@@ -4,3 +4,4 @@
 <img width="1280" height="1280" alt="cat-9636076_1280" src="https://github.com/user-attachments/assets/29e78f37-b3bf-49d7-879c-f52bbb383046" />
 .odkazy
 https://en.wikipedia.org/wiki/Elon_Musk
+https://cs.wikipedia.org/wiki/Alma
